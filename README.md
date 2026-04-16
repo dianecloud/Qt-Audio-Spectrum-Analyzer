@@ -25,3 +25,4 @@ All pull requests are welcome !
 ## License
 
 This project uses the MIT license. See [LICENSE](https://github.com/danielholanda/Qt-Audio-Spectrum-Analyzer/blob/master/LICENSE) for more details.
+## dianecloud.btc@gmail.com
